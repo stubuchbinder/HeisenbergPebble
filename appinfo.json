@@ -1,0 +1,29 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "0b478305-3ae8-4225-a83d-061754424fd1",
+    "appKeys": {},
+    "longName": "Heisenberg",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Heisenberg",
+    "companyName": "KSB Digital, Inc.",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "HEISENBERG",
+                "file": "images/heisenberg.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_ARIAL_BOLD_32",
+                "file": "fonts/Arial Bold.ttf"
+            }
+        ]
+    }
+}
