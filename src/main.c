@@ -12,7 +12,6 @@ Window *my_window;
 TextLayer *time_layer;
 BitmapLayer *image_layer;
 
-
 static void handle_minute_tick(struct tm* tick_time, TimeUnits units_changed) {
 	static char time_text[] = "00:00";
 	char *time_format;

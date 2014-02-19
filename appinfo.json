@@ -15,14 +15,14 @@
     "resources": {
         "media": [
             {
-                "type": "png",
-                "name": "HEISENBERG",
-                "file": "images/heisenberg.png"
-            },
-            {
                 "type": "font",
                 "name": "FONT_ARIAL_BOLD_32",
                 "file": "fonts/Arial Bold.ttf"
+            },
+            {
+                "type": "png",
+                "name": "HEISENBERG",
+                "file": "images/heisenberg.png"
             }
         ]
     }
